@@ -1,6 +1,13 @@
 # FUTURE_DS_03
-📊 Student Satisfaction and Feedback Analysis Using Survey Data
 
+📊 Student Satisfaction and Feedback Analysis Using Survey Data
+---
+
+<img width="942" height="707" alt="bf93749f-d9ee-45f5-84d9-81e1dbb5703b" src="https://github.com/user-attachments/assets/84d8fd52-abf6-49f7-8c95-26b353cebd42" />
+
+<img width="942" height="707" alt="e1b92ece-e063-472a-bf4e-b6ce718acfe8" src="https://github.com/user-attachments/assets/ae2faebb-736a-4b8b-8ebd-82a3f0a6a031" />
+
+---
 📌 Project Overview
 
 This project analyzes student feedback to understand satisfaction levels, teaching effectiveness, and areas for improvement in academic courses.
