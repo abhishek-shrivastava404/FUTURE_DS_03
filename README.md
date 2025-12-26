@@ -2,6 +2,7 @@
 📊 Student Satisfaction and Feedback Analysis Using Survey Data
 
 📌 Project Overview
+
 This project analyzes student feedback to understand satisfaction levels, teaching effectiveness, and areas for improvement in academic courses.
 Two structured survey datasets are used to perform descriptive analysis and visualization, helping convert raw feedback into actionable insights.
 The project focuses on clarity, correctness, and real-world applicability, rather than complex or unnecessary modeling.
@@ -22,6 +23,7 @@ The project focuses on clarity, correctness, and real-world applicability, rathe
 ---
 
 📈 Analysis Performed
+
 🔹 Individual Feedback Analysis
 
 1. Average score per teaching attribute
@@ -57,7 +59,9 @@ The project focuses on clarity, correctness, and real-world applicability, rathe
 ✅ Conclusion
 
 This project demonstrates how structured student feedback data can be effectively analyzed using simple statistical techniques and visualization.
+
 By combining individual responses with aggregated survey results, institutions can gain meaningful insights to support data-driven academic decisions.
+
 ---
 
 👤 Author
